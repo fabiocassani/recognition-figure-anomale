@@ -3,6 +3,6 @@ Progetto di Principi e Modelli della Percezione - Università degli Studi di Mil
 
 Gruppo di Francesco Greca, Merly Katherine Corso Mendoza, Federica Mozzi, Fabio Luigi Cassani
 
-Link alla presentazione: https://bit.ly/3o2OhCr
+Link alla presentazione: https://bit.ly/3PtFZz8
 
 Il codice python riportato è stato sviluppato come progetto universitario, il file che contiene il codice è un notebook di Google Colab. Per una migliore comprensione del codice si consiglia la visione della documentazione delle funzioni principali utilizzate con le librerie di TensorFlow e OpenCV.
